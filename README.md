@@ -1,7 +1,6 @@
 ![MasterHead](https://media.traveler.es/photos/61376442c6202df75915f7fd/master/w_1600%2Cc_limit/190226.jpg)
 <h1 align="center">Hi 👋, I'm Aldo Caumo</h1>
 <h3 align="center">A passionate Data Analyst from Venice, Italy</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🌱 I’m currently studying **Data Analytics for Business & Society**
 
