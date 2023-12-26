@@ -1,4 +1,4 @@
-![MasterHead](https://media.traveler.es/photos/61376442c6202df75915f7fd/master/w_1600%2Cc_limit/190226.jpg)
+![MasterHead](https://lp-cms-production.imgix.net/2021-06/GettyRF_543346423.jpg?auto=format&w=1920&h=640&fit=crop&crop=faces,edges&q=75)
 <h1 align="center">Hi 👋, I'm Aldo Caumo</h1>
 <h3 align="center">A passionate Data Analyst from Venice, Italy</h3>
 
