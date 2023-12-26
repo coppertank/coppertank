@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Aldo Caumo</h1>
 <h3 align="center">A passionate Data Analyst from Venice, Italy</h3>
 
-- 🌱 I’m currently studying **Data Analytics for Business & Society**
+- 🌱 I’m currently studying **Data Analytics for Business & Society at the Ca' Foscari University of Venice**
 
 - 📫 How to reach me **caumoaldo8@gmail.com**
 
