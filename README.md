@@ -15,8 +15,4 @@
 <a href="https://instagram.com/aldocaumo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aldocaumo" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=coppertank&show_icons=true&locale=en&layout=compact" alt="coppertank" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=coppertank&show_icons=true&theme=onedark&locale=en" alt="coppertank" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=coppertank&" alt="coppertank" /></p>
