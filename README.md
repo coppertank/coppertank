@@ -4,9 +4,8 @@
 ![MasterHead](https://lp-cms-production.imgix.net/2021-06/GettyRF_543346423.jpg?auto=format&w=1920&h=640&fit=crop&crop=faces,edges&q=75)
 
 - 📖 **Data Analytics for Business & Society** at Ca' Foscari, University of Venice
-
 - 🤝 Double Joint Degree with **Aix-Marseille University**
-
+- 🔭 Master 2 in **Econométrie, Big Data & Statistique**
 - 📫 How to reach me: **caumoaldo8@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
