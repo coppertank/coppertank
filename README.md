@@ -1,3 +1,5 @@
+<img style=”margin: 10px” src=”https://github.com/coppertank/coppertank/blob/main/Header.png" alt=”React” height=”50" />
+
 <h1 align="center">Hi 👋, I'm Aldo Caumo</h1>
 <h3 align="center">I am a Data Analyst from Venice, Italy</h3>
 
