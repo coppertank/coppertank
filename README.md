@@ -1,6 +1,6 @@
 <img src="Header.png" alt="Hero image">
 
-### 👋 About me:
+## About me:
 
 I am a Data Analyst/Scientist from Venice.
 
