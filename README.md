@@ -14,7 +14,7 @@ Coming soon, presentation of the work at the French "Ministère de la Transition
 
 
 <details>
-  <h2>Other info:</h2>
+  <summary>Other info:</summary>
   <br>
   <p><i>Traveled here and there, ate some junk food</i><p>
 
