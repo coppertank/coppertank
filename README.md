@@ -1,9 +1,4 @@
-<img src="Header.png" alt="banner that says Monica Powell - software engineer, content creator and community organizer alongside a cartoon illustration of Monica">
-
-<h1 align="center">Hi 👋, I'm Aldo Caumo</h1>
-<h3 align="center">I am a Data Analyst from Venice, Italy</h3>
-
-![MasterHead](https://lp-cms-production.imgix.net/2021-06/GettyRF_543346423.jpg?auto=format&w=1920&h=640&fit=crop&crop=faces,edges&q=75)
+<img src="Header.png">
 
 - 📖 **Data Analytics for Business & Society** at Ca' Foscari, University of Venice
 - 🤝 Double Joint Degree with **Aix-Marseille University**
