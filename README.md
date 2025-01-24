@@ -19,8 +19,8 @@
   <i>How to reach me:</i>
 
   <p align="center">
-    <a href="https://instagram.com/aldocaumo" alt="Instagram"><img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/White/Instagram_white.svg"></a>
-    <a href="https://www.linkedin.com/in/aldocaumo/" alt="Linkedin"><img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/White/LinkedIN_white.svg"></a>
     <a href="mailto:caumoaldo8@gmail.com" alt="Contact me"><img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/White/Mail_ru_white.svg"></a>
+    <a href="https://www.linkedin.com/in/aldocaumo/" alt="Linkedin"><img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/White/LinkedIN_white.svg"></a>
+    <a href="https://instagram.com/aldocaumo" alt="Instagram"><img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/White/Instagram_white.svg"></a>
   </p>
 
