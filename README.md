@@ -23,6 +23,12 @@ Coming soon, presentation of the work at the French "Ministère de la Transition
   - 🤝 Double Joint Degree with **Aix-Marseille University**
   - 🔭 Master 2 in **Econométrie, Big Data & Statistique**
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=coppertank&show_icons=true&locale=en&layout=compact" alt="coppertank" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=coppertank&show_icons=true&locale=en" alt="coppertank" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=coppertank&" alt="coppertank" /></p>
+
 <br><br>
 </details>
 
