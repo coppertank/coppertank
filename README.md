@@ -1,4 +1,5 @@
 <img src="Header.png">
+<img src="https://img.shields.io/badge/-Qlik-009848?style=flat&logo=qlik&logoColor=white"/>
 
 - 📖 **Data Analytics for Business & Society** at Ca' Foscari, University of Venice
 - 🤝 Double Joint Degree with **Aix-Marseille University**
