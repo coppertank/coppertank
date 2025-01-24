@@ -7,7 +7,6 @@
 <details>
   <summary>Other information about me:</summary>
   <br>
-  <p><i>Siri play ME! by Taylor Swift ft. Brendon Urie 🎶</i><p>
 
   - 📖 **Data Analytics for Business & Society** at Ca' Foscari, University of Venice
   - 🤝 Double Joint Degree with **Aix-Marseille University**
