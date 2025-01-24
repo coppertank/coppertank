@@ -14,7 +14,7 @@
   - 📫 How to reach me: **caumoaldo8@gmail.com**
   
 
-  ![My github stats](https://github-readme-stats.vercel.app/api?username=coppertank_icons=true&theme=nord)
+  ![My github stats](https://github-readme-stats.vercel.app/api?username=aldocaumo_icons=true&theme=nord)
   <br><br>
 </details>
 
