@@ -23,7 +23,7 @@ Coming soon, presentation of the work at the French "Ministère de la Transition
   - 🤝 Double Joint Degree with **Aix-Marseille University**
   - 🔭 Master 2 in **Econométrie, Big Data & Statistique**
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=coppertank&theme=nord&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+<p href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=coppertank&theme=nord&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></p>
 
 <br><br>
 </details>
