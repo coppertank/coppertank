@@ -4,7 +4,7 @@
 
 I am a Data Analyst/Scientist from Venice.
 
-Currently working at INRAe (Dijon, France) in a project aimed at creating a composite indicator of real estate tension for all French municipalities.
+Currently working at INRAe (Dijon, France) as Ingénieur d'études, in a project aimed at creating a composite indicator of real estate tension for all French municipalities.
 
 Coming soon, presentation of the work at the French "Ministère de la Transition écologique".
 
@@ -23,7 +23,7 @@ Coming soon, presentation of the work at the French "Ministère de la Transition
   - 🤝 Double Joint Degree with **Aix-Marseille University**
   - 🔭 Master 2 in **Econométrie, Big Data & Statistique**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=coppertank&" alt="coppertank" /></p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=coppertank&theme=nord&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 <br><br>
 </details>
