@@ -2,7 +2,7 @@
 
 ## About me:
 
-I am a Data Analyst/Scientist from Venice.
+I am a Data Analyst/Scientist from Venice, Italy.
 
 Currently working at INRAE (Dijon, France) as Ingénieur d'études, in a project aimed at creating a composite indicator of real estate tension for all French municipalities.
 
