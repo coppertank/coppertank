@@ -4,7 +4,7 @@
 
 I am a Data Analyst/Scientist from Venice.
 
-Currently working at INRAe (Dijon, France) as Ingénieur d'études, in a project aimed at creating a composite indicator of real estate tension for all French municipalities.
+Currently working at INRAE (Dijon, France) as Ingénieur d'études, in a project aimed at creating a composite indicator of real estate tension for all French municipalities.
 
 Coming soon, presentation of the work at the French "Ministère de la Transition écologique".
 
